@@ -13,7 +13,7 @@ Require module, call and get results!
 ```
 var FioBankHelper = require('fio-bank-transaction-helper');
 
-var Token = 'nlFiHCyOXI3OFIQjocyzLyfWsmBdWX9kmSLort0qEc5EVmjuICKuUyQhb1PDJaAi'; // access Token generate in API section of account settings
+var Token = 'a55s4f6a4f6a'; // access Token generate in API section of account settings
 var FromDate = '2016-09-01';
 var ToDate = '2016-10-01';
 var Format = 'json'; // can be CSV, GPC, HTML, JSON, OFX, FIO XML
