@@ -22,6 +22,9 @@ FioBankHelper.periodList(Token, FromDate, ToDate, Format,function(result)){
   console.log(result);
 });
 
+```
+
+```
 
 var Token = 'a55s4f6a4f6a'; // access Token generate in API section of account settings
 var Format = 'json' // can be CSV, GPC, HTML, JSON, OFX, FIO XML
@@ -31,8 +34,8 @@ FioBankHelper.lastList(Token, Format, function(result)){
   console.log(result);
 });
 
-
 ```
+
 
 ## Contributors
 
