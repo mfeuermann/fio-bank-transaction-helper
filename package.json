@@ -1,0 +1,25 @@
+{
+  "name": "fio-bank-transaction-helper",
+  "version": "1.0.0",
+  "description": "Helper for downloading transactions from FIO bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfeuermann/fio-bank-transaction-helper.git"
+  },
+  "keywords": [
+    "fio",
+    "bank",
+    "transaction",
+    "helper"
+  ],
+  "author": "Marek Feuermann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfeuermann/fio-bank-transaction-helper/issues"
+  },
+  "homepage": "https://github.com/mfeuermann/fio-bank-transaction-helper#readme"
+}
