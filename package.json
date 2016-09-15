@@ -2,7 +2,7 @@
   "name": "fio-bank-transaction-helper",
   "version": "1.0.0",
   "description": "Helper for downloading transactions from FIO bank",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/mfeuermann/fio-bank-transaction-helper/issues"
   },
-  "homepage": "https://github.com/mfeuermann/fio-bank-transaction-helper#readme"
+  "homepage": "https://github.com/mfeuermann/fio-bank-transaction-helper#readme",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
 }
