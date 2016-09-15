@@ -2,8 +2,8 @@
 
 ## Synopsis
 
-Simple module to get Transaction informations from FIO bank API
-Contains two simple methods periodList and lastList
+Simple module to get transactions from FIO bank API.
+Contains two simple methods periodList and lastList.
 
 ## Code Example
 
